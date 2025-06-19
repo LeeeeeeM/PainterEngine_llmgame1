@@ -1,0 +1,23 @@
+-players 用于记录玩家信息的abi
+--player[] 玩家数组
+--player_count 玩家数量
+---pp PP值
+---hp HP值
+---name 玩家名字
+---profile 玩家256x256的头像图
+---*cookie  玩家凭证(敏感数据)
+---*choose 玩家当前选择(敏感数据)
+
+-game 用于记录游戏当前信息
+--state 当前游戏状态
+--state_id 当前游戏状态id
+--players 用于记录玩家信息的abi
+---player[] 玩家数组
+---player_count 玩家数量
+----pp PP值
+----hp HP值
+----name 玩家名字
+----*choose 玩家当前选择(敏感数据)
+
+-scene 当前场景数据
+--p 摸鱼被抓概率

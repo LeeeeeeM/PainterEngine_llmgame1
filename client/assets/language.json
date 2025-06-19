@@ -1,0 +1,14 @@
+{
+    "join game":"加入游戏",
+    "input your name":"输入你的名字",
+    "select profile":"点击选头像",
+    "invalid profile":"无效头像",
+    "please select profile":"请选择头像(图片数据将作为您登录游戏的唯一标识)",
+    "please input your name":"请输入你的名字",
+    "name too long":"名字过长",
+    "network error":"网络错误",
+    "profile alert":"头像的图片数据将作为您登录游戏的唯一标识.\n请妥善保存头像文件",
+    "logining":"签入中...",
+    "tag":"%1\n裁员值:%2\n健康值:%3",
+    "wait":"等待其它玩家.."
+}
